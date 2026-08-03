@@ -14,7 +14,6 @@ TARGET_CHANNELS = {
     -1002343315413: "https://t.me/+De6qpY6TD0QzYmVi",
     -1002299596606: "https://t.me/+t0pz1nqFXU02MTUy",
     -1002489251514: "https://t.me/+XmbP74p99v4yYjcy",
-    -1001548271781: "https://t.me/+SAh8cL6D8-VmMGQ6",
     -1003554835947: "https://t.me/+O4yVzhQSU7VjZThi",
     -1003648623951: "https://t.me/+Vy829puEUGhhMWEy",
     -1003410663397: "https://t.me/+Hv_lIU5iiqw0YzI6",
